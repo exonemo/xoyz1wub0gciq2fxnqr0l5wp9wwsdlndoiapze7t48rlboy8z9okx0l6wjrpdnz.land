@@ -6,7 +6,7 @@
 - Domain name:
 xoyz1wub0gciq2fxnqr0l5wp9wwsdlndoiapze7t48rlboy8z9okx0l6wjrpdnz.land
 - Generated: 2026-08-20 22:46 UTC
-- Agent:
+- Agent: Rhizome x ARTXCODE
 - Owner:
 - Presented by exonemo
 
