@@ -1,6 +1,6 @@
 # The Last Acres of the Internet
 ## About
-
+Short, memorable domains keep climbing in price, like prime real estate in a digital Manhattan. What we are selling is the opposite: long, meaningless domains, forgotten and asleep with zero visitors. We sell that boundless land, together with the HTML placed on it and the domain itself.
 
 ## Land info
 - Domain name:
@@ -18,3 +18,8 @@ https://exonemo.com/the-last-acres-of-the-internet/
 - CNAME — the custom domain
 - .nojekyll — bypass Jekyll processing
 - thumbnails/view-NN.jpg — Screenshots of the land
+
+## Credits
+- Developped by exonemo
+- Cooperated by NEORT, WWW!, WYSIWYG, The Second-Guess
+- Supported by NowHere
